@@ -1,9 +1,10 @@
-# [Hi](http://sindresorhus.com/hi)
+# [Hi](http://nicolo.martini.io)
 
 > Just a simple contact page.
 
-[![](screenshot.png)](http://sindresorhus.com/hi)
+[![](screenshot.png)](http://nicolo.martini.io)
 
+Froked from [http://github.com/sindresorhus/hi]
 
 ## License
 
